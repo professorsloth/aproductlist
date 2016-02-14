@@ -1,0 +1,3 @@
+*.swp
+source/vendor/
+data/products.xml

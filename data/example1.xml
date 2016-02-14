@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <product sku="1" cc="0" published="1">
+    <name>First!</name>
+    <description>It is a test product, and it is first.</description>
+    <price>
+      <whs>100.0</whs>
+    </price>
+    <vat>
+      <id>3</id>
+    </vat>
+    <categories>
+      <category id="298">
+        <name>A category</name>
+        <description/>
+      </category>
+      <category id="301">
+        <name>Another category</name>
+        <description/>
+      </category>
+      <category id="300">
+        <name>More categories!</name>
+        <description/>
+      </category>
+    </categories>
+  </product>
+  <product sku="42" cc="0.0042" published="1">
+    <name>Truth</name>
+    <description>Tell everyone about it!</description>
+    <price>
+      <whs>42.42</whs>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <categories>
+      <category id="300">
+        <name>Confusion-inducing category</name>
+	<description>Another product has a category with the same ID, so this is pretty odd.</description>
+      </category>
+    </categories>
+  </product>
+  <product sku="100" cc="100.0" published="1">
+    <name>One hundred</name>
+    <description>Everything about this is one hundred.</description>
+    <price>
+      <whs>100</whs>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+  </product>
+</list>

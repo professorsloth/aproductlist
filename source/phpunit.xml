@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<phpunit colors="true" bootstrap="./vendor/autoload.php">
+	<testsuites>
+		<testsuite name="Canary Test Suite">
+			<directory>./tests/Canary/</directory>
+		</testsuite>
+		<testsuite name="A Product List Test Suite">
+			<directory>./tests/AProductList</directory>
+		</testsuite>
+	</testsuites>
+</phpunit>
