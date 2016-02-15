@@ -32,7 +32,7 @@ A `vat` node has exactly one the following nodes:
 
  * `id` (treated as an integer)
 
-A `categories` node has zero or more of the following nodes:
+A `categories` node has at least one of the following nodes:
 
  * `category`
 
